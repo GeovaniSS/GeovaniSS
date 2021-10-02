@@ -1,7 +1,7 @@
 <h3> Hi there, I'm Geovani 👋
   
   ###
-<p> I'm a <strong>Junior Web Developer</strong> passionate about the best web and security technologies. I'm a student at <strong>Instituto Federal de Brasília<strong>, where I'm learning in practice on the most modern technologies of web.
+<p> I'm a <strong>Junior Web Developer</strong> passionate about the best web and security technologies. I'm a student at <strong>Instituto Federal de Brasília</strong>, where I'm learning in practice on the most modern technologies of web.
   
 <div style="display: inline-block;">
     <a href="https://www.instagram.com/geovanissilva_/?hl=pt-br" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Gel-Instagram"></a>
