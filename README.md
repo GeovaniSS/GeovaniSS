@@ -17,9 +17,9 @@
 </div>
   
 <div style="display: inline-block;"> <br>
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Gel-HTML5">
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Gel-CSS">
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Gel-JS">
+  <img align="center" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Gel-HTML5">
+  <img align="center" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Gel-CSS">
+  <img align="center" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Gel-JS">
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Gel-Git">
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Gel-Github">
 </div>
