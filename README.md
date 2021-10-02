@@ -10,16 +10,17 @@
     <a href="https://www.youtube.com/channel/UCpQKGK6dDtOet6j_4cJE45A" target="_blank" rel="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Gel-YT"></a>
 </div> 
   
-<h3> 🚀 Skills 
+<h3> 🚀 Skills  
+  
+<div> <br>
+  <a href="https://github.com/GeovaniSS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaniSS&show_icons=true&theme=github_dark&count_private=true">
+</div>
+  
 <div style="display: inline-block;"> <br>
   <img align="center" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Gel-HTML5">
   <img align="center" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Gel-CSS">
   <img align="center" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Gel-JS">
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Gel-Git">
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Gel-Github">
-</div>
-  
-<div> <br>
-  <a href="https://github.com/GeovaniSS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaniSS&show_icons=true&theme=github_dark&count_private=true">
 </div>
