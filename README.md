@@ -15,6 +15,7 @@
 <div> <br>
   <a href="https://github.com/GeovaniSS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaniSS&show_icons=true&theme=github_dark&count_private=true">
+  <a href="https://app.daily.dev/GeovaniSS"><img src="https://api.daily.dev/devcards/46c916e968ba4d97b287b322957200c2.png?r=ere" width="400" alt="Geovani Silva's Dev Card"/></a>
 </div>
   
 <div style="display: inline-block;"> <br>
