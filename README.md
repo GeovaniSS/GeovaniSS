@@ -14,8 +14,8 @@
   
 <div> <br>
   <a href="https://github.com/GeovaniSS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaniSS&show_icons=true&theme=github_dark&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaniSS&theme=github_dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaniSS&show_icons=true&theme=github_dark&count_private=true PAT_1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaniSS&theme=github_dark PAT_1">
 </div>
   
 <div style="display: inline-block;"> <br>
