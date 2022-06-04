@@ -24,4 +24,5 @@
   <img align="center" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Gel-JS">
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Gel-Git">
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Gel-Github">
+  <img align="center" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Gel-Node"
 </div>
